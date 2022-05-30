@@ -8,7 +8,7 @@
     "@react-leaflet/core": "^1.0.2",
     "axios": "^0.21.1",
     "form-data": "latest",
-    "icomoon-react": "^2.0.19",
+    "icomoon-react": "^3.0.0",
     "leaflet": "^1.7.1",
     "material-table": "^1.69.2",
     "mui-datatables": "^2.14.0",
